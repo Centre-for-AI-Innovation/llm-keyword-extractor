@@ -1,0 +1,6 @@
+openai>=1.30.0
+python-dotenv>=1.0.0
+
+# Optional, only needed if you select a "mistral" provider model
+# (e.g. the built-in "mistral-large" registry entry):
+# mistralai>=1.0.0
